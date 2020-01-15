@@ -2,6 +2,8 @@
 
 # *Desvendando o Flutter*
 
+**URL da Apresentação**: [Introdução ao Flutter - Desvendando](https://docs.google.com/presentation/d/1u3hUpCLsD9mgOfQNRfiwJCH-UjF9k7HcfeYbplfbGX8/edit?usp=sharing)
+
 ## Dart Lang
 
 ### Print
